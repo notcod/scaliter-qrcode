@@ -1,0 +1,14 @@
+{
+    "name": "scaliter/qrcode",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Scaliter\\": "src/"
+        }
+    },
+    "require": {
+        "lessclick-system/barcode": "^3.0",
+        "pragmarx/google2fa": "^8.0"
+    },
+    "license": "MIT"
+}
